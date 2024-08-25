@@ -6,5 +6,5 @@ This project involved developing a Shiny web application for personalized stroke
 
 ## Screenshots
 
-<img width="1440" alt="Screenshot 2024-03-26 at 2 53 31 PM" src="https://github.com/Shamil-Millette/Stroke-Prediction-App-in-R/assets/162630888/3833c0f0-55e4-4fa7-810a-1ff903b838f9">)
+<img width="1440" alt="Screenshot 2024-03-26 at 2 53 31 PM" src="https://github.com/Shamil-Millette/Stroke-Prediction-App-in-R/assets/162630888/3833c0f0-55e4-4fa7-810a-1ff903b838f9">
 
